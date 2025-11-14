@@ -80,12 +80,12 @@ pip install requests
 2. **DOWNLOAD SCRIPT**
 ```bash
 git clone https://github.com/example/whatsapp-exploit
-cd whatsapp-exploit
+cd spyware-whatsapp.ph
 ```
 
 3. **RUN SCRIPT**
 ```bash
-python3 whatsapp_exploit.py
+python3 spyware-whatsapp.py
 ```
 
 ## 💰 DONATION
